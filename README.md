@@ -1,6 +1,20 @@
 Mega Project List
 ========
 
+Last Updated: 9/20/2013
+Dustyn Bush
+
+Some details about this repo:
+
+	I will use Python to solve these. Why? Because I want to learn the language quickly.
+	I have no interest in making games, so I'm excluding those from the list below.
+	I'm not interested in networking, so I might skip all (or some) of them.
+	The projects will not be made in the order posted.
+	I may not be able to complete all of them.
+	My method of solving them may not be the best. If you do not like my algorithm(s), please add a comment for the file/commit or open an issue, and I'll try to improve.
+	
+I will link to each project that I complete.
+
 Numbers
 ---------
 
