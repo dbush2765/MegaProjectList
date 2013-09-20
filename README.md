@@ -3,9 +3,6 @@ Mega Project List
 
 *Last Updated: 9/20/2013*
 
-*Dustyn Bush*
-
-
 Some details about this repo:
 
 * I will use Java to solve these. Why? Because I want to learn the language quickly.
